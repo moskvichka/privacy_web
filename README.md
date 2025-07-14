@@ -30,17 +30,12 @@
 
 
    ```bash
-   https://github.com/moskvichka/moskvichka_front.git
-   cd moskvichka
+   https://github.com/moskvichka/privacy_web.git
+   cd moskvichka_privacy_web
 ```
 ### 2. Вызовите команды
    ```Dart
   flutter pub get
-  ```
-
-### 3. При необходимости кодогенерации файлов вызовите
-   ```Dart
-  flutter packages pub run builder_runner build --delete-conflicting-outputs
   ```
 
 ### 4. Проект готов к запуску!
